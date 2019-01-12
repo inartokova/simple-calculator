@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">p0191simplecalculator</string>
+    <string name="enter_number">Введите число</string>
+    <string name="reset">reset</string>
+    <string name="quit">quit</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
